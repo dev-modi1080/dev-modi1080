@@ -84,15 +84,7 @@ Full Stack Developer | B.Tech CSE Student at Adani University | DSA Enthusiast
 
 ---
 
-## GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dev-modi1080&theme=onestar&no-frame=true"/>
-</p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-
----
 
 ## Certifications
 
